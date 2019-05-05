@@ -1,0 +1,22 @@
+{
+  "name": "numerals",
+  "version": "1.0.0",
+  "description": "BBC technical test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Cross/roman-numerals.git"
+  },
+  "author": "Daniel Cross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Cross/roman-numerals/issues"
+  },
+  "homepage": "https://github.com/Daniel-Cross/roman-numerals#readme",
+  "dependencies": {
+    "jest": "^24.8.0"
+  }
+}
